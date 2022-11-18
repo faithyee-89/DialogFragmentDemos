@@ -1,17 +1,20 @@
 package com.example.haoz.dialogfragmentdemos.activity;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v4.app.DialogFragment;
-import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.widget.Toast;
+
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.DialogFragment;
+
 import com.example.haoz.dialogfragmentdemos.R;
 import com.example.haoz.dialogfragmentdemos.utils.CommonDialogFragment;
 import com.example.haoz.dialogfragmentdemos.utils.DialogFragmentHelper;
 import com.example.haoz.dialogfragmentdemos.utils.IDialogResultListener;
+
 import java.util.Calendar;
 
 /**

@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DialogFragmentDemos.iml" filepath="$PROJECT_DIR$/DialogFragmentDemos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DialogFragmentDemos.iml" filepath="$PROJECT_DIR$/DialogFragmentDemos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DialogFragmentDemos.iml" filepath="$PROJECT_DIR$/.idea/modules/DialogFragmentDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DialogFragmentDemos.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DialogFragmentDemos.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DialogFragmentDemos.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DialogFragmentDemos.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DialogFragmentDemos.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DialogFragmentDemos.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DialogFragmentDemos.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DialogFragmentDemos.app.unitTest.iml" />
     </modules>
   </component>
 </project>
